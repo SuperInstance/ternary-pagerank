@@ -1,0 +1,7 @@
+[package]
+name = "ternary-pagerank"
+version = "0.1.0"
+edition = "2021"
+description = "PageRank and centrality measures on ternary-weighted graphs"
+license = "MIT"
+[dependencies]
